@@ -1,6 +1,6 @@
 # Solar
 
-A demonstration of soloar system using [processing](https://processing.org/) and P5.js.
+An animation of soloar system using [processing](https://processing.org/) and P5.js.
 
 # Run
 - This project requires [processing](https://processing.org/) to run, please install Processing [here](https://processing.org/download/) first.
